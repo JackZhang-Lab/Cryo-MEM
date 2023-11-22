@@ -39,10 +39,10 @@ Mr. Zhen Huang at The Zhang Laboratory at Molecular Biophysics and Biochemistry,
 
 If you have any questions, please contact Zhen Huang at zhen.victor.huang@gmail.com, or Jack Zhang at jack.zhang@yale.edu
 
+======================================================================================================================================================
 # #####################################################################################################################
 # PART II:  
 # Cryo-EM Membrane Modeling
-==============================
 
 This is a tool to directly sample and calculate membrane curvature from cryo-EM density maps, as well as build lipids bilayers into your membrane density maps.
 
