@@ -49,9 +49,9 @@ This is a tool to directly sample and calculate membrane curvature from cryo-EM 
 ## Features
 --------------
 
-With cryo-MEM you can:
+With Cryo-MEM Modeler you can:
 
 - Sample your membrane density with PO4 molecules and convert it into pdb files, where you can check or visualize it in your own way.
 - Derive 2D curvature contour maps.
-- Build decent lipids pdb files.
-- 
+- Build PDB models of lipids out a provided cryo-EM density map.
+  
