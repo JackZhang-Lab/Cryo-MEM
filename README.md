@@ -52,7 +52,6 @@ If you have any questions, please contact Zhen Huang at zhen.victor.huang@gmail.
 This is a tool to directly sample and calculate membrane curvature from cryo-EM density maps, as well as build lipids bilayers into your membrane density maps.
 
 ## Features
---------------
 
 With Cryo-MEM Modeler you can:
 
