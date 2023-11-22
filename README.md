@@ -1,5 +1,5 @@
 # PART I:  
-# Membrane Subtractor
+# Cryo-EM Membrane Subtraction
 
 A Python-based computational tool for membrane signal analysis and subtraction in cryo-EM.
 
@@ -41,3 +41,17 @@ If you have any questions, please contact Zhen Huang at zhen.victor.huang@gmail.
 
 # #####################################################################################################################
 # PART II:  
+# Cryo-EM Membrane Modeling
+==============================
+
+This is a tool to directly sample and calculate membrane curvature from cryo-EM density maps, as well as build lipids bilayers into your membrane density maps.
+
+## Features
+--------------
+
+With cryo-MEM you can:
+
+- Sample your membrane density with PO4 molecules and convert it into pdb files, where you can check or visualize it in your own way.
+- Derive 2D curvature contour maps.
+- Build decent lipids pdb files.
+- 
