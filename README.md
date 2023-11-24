@@ -21,11 +21,11 @@ This software utilizes 2D averages and their corresponding alignment information
 
 ## Installation
 
-For specific installation methods, please refer to the installation document: [[Installation Document]](./doc/en/Installation_en.md) [[安装文档]](./doc/zh-CN/Installation_zh-CN.md)
+For specific installation methods, please refer to the installation document: [[Installation Document]](./Mem_subtraction/doc/en/Installation_en.md) [[安装文档]](./Mem_subtraction/doc/zh-CN/Installation_zh-CN.md)
 
 ## Usage
 
-For detailed usage tutorials, please refer to the documentation: [[Usage Index]](./doc/index.md)
+For detailed usage tutorials, please refer to the documentation: [[Usage Index]](./Mem_subtraction/doc/index.md)
 
 ## License
 
