@@ -5,7 +5,7 @@ A Python-based computational tool for membrane signal analysis and subtraction i
 
 ## Overview
 
-This software utilizes 2D averages and their corresponding alignment information, employing methods such as Radon transformation, cross-correlation, L1 norm, Bezier curves, Monte Carlo simulations, and genetic algorithms. It analyzes and subtracts membranes of any shape in cryo-EM, ultimately producing particle stacks and micrographs with membrane signals removed, suitable for subsequent membrane protein analysis.
+This software utilizes 2D averages and their corresponding alignment information, employing methods such as Radon transformation, cross-correlation, L1 norm, Bezier curves, Monte Carlo simulations, and genetic algorithms. It analyzes and subtracts membranes of any shape in cryo-EM images, ultimately producing particle stacks and micrographs with membrane signals removed. This is particular useful for cryo-EM analysis of membrane proteins embeded in the native lipid bilayers with irregular shapes.
 
 ## Features
 
